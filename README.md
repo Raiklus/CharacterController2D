@@ -7,5 +7,5 @@ It is not recommended for production. It is not sufficiently tested.
 
 Currently the Controller features:<br>
 Smooth movement.<br>
-Jumping.<br>
+Jumping or double jumping.<br>
 Wall and slope sliding.<br>
