@@ -9,3 +9,4 @@ Currently the Controller features:<br>
 Smooth movement.<br>
 Jumping or double jumping.<br>
 Wall and slope sliding.<br>
+Moving plataforms.
